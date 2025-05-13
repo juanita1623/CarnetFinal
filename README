@@ -1,0 +1,24 @@
+---## 🛠️ Tecnologías usadas
+- **React Native** (para la app)
+- **useState** (para cambiar de lado el carnet)
+- **StyleSheet** (para los estilos)
+- Imágenes locales (`logo.png`, `foto.png`, `qr.png`)
+
+---
+
+## 📋 ¿Qué hace este proyecto?
+- Muestra un carnet con:
+  - Foto del estudiante 📸
+  - Matrícula, Tecnología, Correo
+  - Logo de la universidad 🏫
+  - Código QR  (Q10-CENSA)📲
+- Tiene un botón que dice **"Girar"**
+
+---
+
+## 🚀 Cómo lo ejecuté
+1. Primero cloné el proyecto:
+```bash
+git clone https://github.com/juanita1623/CARNETFINAL.git
+cd carnet-censa
+
